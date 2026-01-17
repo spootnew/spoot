@@ -1,0 +1,7 @@
+{
+  "name": "Digital Magazine Portal",
+  "description": "A sophisticated digital magazine platform featuring an administrative news management panel, 3D rotating interactive covers, and a high-readability reader mode for articles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
